@@ -1,6 +1,11 @@
 # 💫 About Me:
-I am  Nagraj Rangarej, a B.Tech student in Artificial Intelligence & Data Science at Uka Tarsadia University. I have strong skills in Python, Java, SQL, and full-stack development, with a focus on building practical, real-world projects.<br>I am deeply interested in Artificial Intelligence, futuristic technologies, and system-level thinking, and I value clarity, discipline, and continuous improvement. My goal is to build impactful, intelligent systems that are useful, scalable, and forward-thinking.
+I am Nagraj Rangarej, a B.Tech student in Artificial Intelligence & Data Science, driven by a strong interest in intelligent systems, futuristic technologies, and deep system-level thinking.
 
+I have solid hands-on experience in Python, Java, SQL, and full-stack development, and I focus on building real-world, scalable, and efficient solutions rather than theoretical demos. Alongside software, I have worked on multiple hardware-based projects, integrating sensors, microcontrollers, and system logic, which has strengthened my understanding of how software interacts with physical systems in real environments.
+
+My approach is analytical and disciplined. I value clarity in design, clean architecture, and continuous improvement. I aim to build systems that are not just functional, but robust, intelligent, and future-ready — systems that scale, adapt, and actually solve problems.
+
+My long-term goal is to work at the intersection of Artificial Intelligence, system engineering, and advanced technology, building impactful solutions that matter.
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/NikDev345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilrangarej@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nikhils345_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n%C9%AA%E1%B4%8B%CA%9C%C9%AA%CA%9F-r-729223304) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Niks.345) 
