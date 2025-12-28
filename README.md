@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/NikDev345/NikDev345/main/banner(1).png)
+
 # 💫 About Me:
 I am Nagraj Rangarej, a B.Tech student in Artificial Intelligence & Data Science, driven by a strong interest in intelligent systems, futuristic technologies, and deep system-level thinking.
 
