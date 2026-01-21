@@ -25,6 +25,28 @@ My long-term goal is to work at the intersection of Artificial Intelligence, sys
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+## 🚀 Skill Proficiency
+
+```text
+Python        ████████████████░░ 85%
+Java          █████████████░░░░░ 70%
+JavaScript    ███████████████░░░ 80%
+Machine Learn ████████████░░░░░░ 65%
+Backend Dev   ███████████████░░░ 80%
+System Design █████████████░░░░░ 70%
+
+
+📌 Looks simple but **psychologically powerful**.
+
+---
+
+### 5️⃣ Metrics Dashboard (EXTREMELY PROFESSIONAL)
+
+```md
+## 📈 Developer Metrics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikDev345&theme=github-dark&hide_border=true" />
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NikDev345&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
