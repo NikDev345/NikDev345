@@ -26,6 +26,7 @@ My long-term goal is to work at the intersection of Artificial Intelligence, sys
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikDev345&theme=github-dark&hide_border=true" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -44,5 +45,6 @@ System Design █████████████░░░░░ 70%
 ![](https://github-contributor-stats.vercel.app/api?username=NikDev345&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+###
 [![](https://visitcount.itsvg.in/api?id=NikDev345&icon=0&color=0)](https://visitcount.itsvg.in)
 
