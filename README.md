@@ -1,14 +1,30 @@
 ![Banner](https://raw.githubusercontent.com/NikDev345/NikDev345/main/banner(1).png)
 
 
-# 💫 About Me:
-I am Nagraj Rangarej, a B.Tech student in Artificial Intelligence & Data Science, driven by a strong interest in intelligent systems, futuristic technologies, and deep system-level thinking.
 
-I have solid hands-on experience in Python, Java, SQL, and full-stack development, and I focus on building real-world, scalable, and efficient solutions rather than theoretical demos. Alongside software, I have worked on multiple hardware-based projects, integrating sensors, microcontrollers, and system logic, which has strengthened my understanding of how software interacts with physical systems in real environments.
+# 💫 About Me
 
-My approach is analytical and disciplined. I value clarity in design, clean architecture, and continuous improvement. I aim to build systems that are not just functional, but robust, intelligent, and future-ready — systems that scale, adapt, and actually solve problems.
+I am **Nagraj Rangarej**, a B.Tech student in **Artificial Intelligence & Data Science**, with extensive hands-on experience building **multiple machine learning and AI-driven projects**.
 
-My long-term goal is to work at the intersection of Artificial Intelligence, system engineering, and advanced technology, building impactful solutions that matter.
+I have worked on **a wide range of ML applications**, including data analysis systems, predictive models, intelligent automation tools, and real-world problem-solving pipelines. One of my notable projects is **Luna**, a custom-built **AI voice assistant** capable of handling commands, processing speech, and executing intelligent actions through modular system design.
+
+Beyond individual projects, I have consistently built **end-to-end systems** — from data collection and preprocessing to model training, evaluation, and deployment. I focus on **practical implementation**, not theory-only work, ensuring that every project solves a real problem and performs reliably.
+
+In addition to software-based AI systems, I have completed **multiple hardware-integrated projects**, combining sensors, microcontrollers, and intelligent logic. This has given me a strong understanding of how **machine learning systems interact with real-world environments**.
+
+My approach is analytical and system-oriented. I value **clean architecture, scalability, and robustness**, and I continuously refine my projects for performance and maintainability.
+
+My long-term goal is to work at the intersection of **Artificial Intelligence, system engineering, and advanced technology**, building intelligent systems that are impactful, scalable, and future-ready.
+
+## 🧠 Machine Learning Project Experience
+
+- Built **numerous machine learning projects** across different domains, focusing on real-world usability rather than academic demos
+- Developed **Luna**, an AI-powered voice assistant with speech recognition, intent handling, and modular command execution
+- Implemented complete ML pipelines: data preprocessing → model training → evaluation → optimization
+- Worked on predictive models, classification systems, and automation-based AI tools
+- Applied ML concepts such as feature engineering, model tuning, and performance evaluation
+- Focused on building **scalable and maintainable AI systems**
+
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/NikDev345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilrangarej@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nikhils345_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n%C9%AA%E1%B4%8B%CA%9C%C9%AA%CA%9F-r-729223304) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Niks.345) 
