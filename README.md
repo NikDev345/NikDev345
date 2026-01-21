@@ -36,16 +36,6 @@ Backend Dev   ███████████████░░░ 80%
 System Design █████████████░░░░░ 70%
 
 
-📌 Looks simple but **psychologically powerful**.
-
----
-
-### 5️⃣ Metrics Dashboard (EXTREMELY PROFESSIONAL)
-
-```md
-## 📈 Developer Metrics
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikDev345&theme=github-dark&hide_border=true" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NikDev345&limit=5&theme=dark&combine_all_yearly_contributions=true)
