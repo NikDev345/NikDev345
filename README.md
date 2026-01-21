@@ -1,5 +1,9 @@
 ![Banner](https://raw.githubusercontent.com/NikDev345/NikDev345/main/banner(1).png)
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;System+Thinker+%7C+Builder;Full+Stack+%2B+AI+%2B+Hardware;Designing+Future-Ready+Systems" />
+</h2>
+
 # 💫 About Me:
 I am Nagraj Rangarej, a B.Tech student in Artificial Intelligence & Data Science, driven by a strong interest in intelligent systems, futuristic technologies, and deep system-level thinking.
 
