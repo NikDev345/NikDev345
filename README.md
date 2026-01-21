@@ -34,8 +34,7 @@ JavaScript    ███████████████░░░ 80%
 Machine Learn ████████████░░░░░░ 65%
 Backend Dev   ███████████████░░░ 80%
 System Design █████████████░░░░░ 70%
-'''
-
+‘‘‘
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NikDev345&limit=5&theme=dark&combine_all_yearly_contributions=true)
