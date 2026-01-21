@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/NikDev345/NikDev345/main/banner(1).png)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=20NAGRAJ%20 RANGAREJ&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=20%NAGRAJ%20 RANGAREJ&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 
 
 # 💫 About Me
