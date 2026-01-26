@@ -1,15 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/NikDev345/NikDev345/main/banner(1).png)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="700" />
-</p>
-
-<p align="center">
-  <i>Interface active. Subtle motion engaged.</i>
-</p>
-
-
-
 # 💫 About Me
 
 I am **Nagraj Rangarej**, a B.Tech student in **Artificial Intelligence & Data Science**, with extensive hands-on experience building **multiple machine learning and AI-driven projects**.
