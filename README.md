@@ -14,6 +14,8 @@ My approach is analytical and system-oriented. I value **clean architecture, sca
 
 My long-term goal is to work at the intersection of **Artificial Intelligence, system engineering, and advanced technology**, building intelligent systems that are impactful, scalable, and future-ready.
 
+There are still many more Project i have worked in my domain
+
 ## 🧠 Machine Learning Project Experience
 
 - Built **numerous machine learning projects** across different domains, focusing on real-world usability rather than academic demos
@@ -36,8 +38,13 @@ My long-term goal is to work at the intersection of **Artificial Intelligence, s
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikDev345&theme=github_dark" />
 
 # 📊 GitHub Stats:
+  
+  ---
+
 ![](https://github-readme-stats.vercel.app/api?username=NikDev345&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=NikDev345&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikDev345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Contribution Activity
@@ -45,6 +52,7 @@ My long-term goal is to work at the intersection of **Artificial Intelligence, s
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikDev345&theme=github-dark&hide_border=true" />
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🚀 Skill Proficiency
