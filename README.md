@@ -1,12 +1,13 @@
 ![Banner](https://raw.githubusercontent.com/NikDev345/NikDev345/main/banner(1).png)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="720" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="700" />
 </p>
 
 <p align="center">
-  <i>System initializing… interface online.</i>
+  <i>Interface active. Subtle motion engaged.</i>
 </p>
+
 
 
 # 💫 About Me
