@@ -48,6 +48,19 @@ My long-term goal is to work at the intersection of **Artificial Intelligence, s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+## 🥚 Easter Egg
+
+If you’re reading this:
+
+You’re either  
+✔ genuinely curious  
+✔ a developer  
+✔ or someone who actually reads README files (rare species)
+
+Either way — welcome.  
+This project was built for minds like yours.
+
+
 ## 🚀 Skill Proficiency
 
 ```text
