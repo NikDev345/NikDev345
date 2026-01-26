@@ -48,17 +48,25 @@ My long-term goal is to work at the intersection of **Artificial Intelligence, s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🥚 Easter Egg
+## 🥚 Easter Egg — Restricted Access
 
-If you’re reading this:
+<details>
+<summary>▶ Click to initialize hidden module</summary>
 
-You’re either  
-✔ genuinely curious  
-✔ a developer  
-✔ or someone who actually reads README files (rare species)
+### 🔐 SYSTEM UNLOCKED
 
-Either way — welcome.  
-This project was built for minds like yours.
+You weren’t supposed to open this.
+
+But you did.
+
+**Status:** Authorized  
+**Curiosity Index:** High  
+**Developer DNA:** Confirmed  
+
+> This project rewards people who explore beyond the surface.
+
+🧠 _Keep going._
+</details>
 
 
 ## 🚀 Skill Proficiency
