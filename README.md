@@ -9,7 +9,6 @@
           <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur"/>
           <feComposite in="blur" in2="SourceAlpha" operator="in"/>
         </filter>
-
         <!-- Glow -->
         <filter id="glow">
           <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
@@ -18,26 +17,22 @@
             <feMergeNode in="SourceGraphic"/>
           </feMerge>
         </filter>
-
         <!-- Gradient -->
         <linearGradient id="glassGradient" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stop-color="rgba(255,255,255,0.25)" />
           <stop offset="100%" stop-color="rgba(255,255,255,0.05)" />
         </linearGradient>
       </defs>
-
       <!-- Glass base -->
       <rect x="10" y="10" rx="18" ry="18" width="240" height="44"
             fill="url(#glassGradient)"
             stroke="rgba(255,255,255,0.35)"
             filter="url(#glass-blur)"/>
-
       <!-- Glow outline -->
       <rect x="10" y="10" rx="18" ry="18" width="240" height="44"
             fill="none"
             stroke="rgba(120,180,255,0.6)"
             filter="url(#glow)"/>
-            
       <text x="130" y="40"
             text-anchor="middle"
             fill="white"
