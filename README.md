@@ -6,6 +6,7 @@ I am **Nagraj Rangarej**, a B.Tech student in **Artificial Intelligence & Data S
 
 I have worked on **a wide range of ML applications**, including data analysis systems, predictive models, intelligent automation tools, and real-world problem-solving pipelines. One of my notable projects is **Luna**, a custom-built **AI voice assistant** capable of handling commands, processing speech, and executing intelligent actions through modular system design.
 
+
 Beyond individual projects, I have consistently built **end-to-end systems** — from data collection and preprocessing to model training, evaluation, and deployment. I focus on **practical implementation**, not theory-only work, ensuring that every project solves a real problem and performs reliably.
 
 In addition to software-based AI systems, I have completed **multiple hardware-integrated projects**, combining sensors, microcontrollers, and intelligent logic. This has given me a strong understanding of how **machine learning systems interact with real-world environments**.
@@ -69,3 +70,5 @@ System Design █████████████░░░░░ 70%
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NikDev345&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+THANK YOU...
