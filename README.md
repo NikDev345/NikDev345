@@ -71,4 +71,4 @@ System Design █████████████░░░░░ 70%
   <img src="https://komarev.com/ghpvc/?username=NikDev345&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-THANK YOU...
+HOPE YOU HAVE A GREAT DAY
