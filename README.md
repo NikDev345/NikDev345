@@ -26,6 +26,7 @@ There are still many more Project i have worked in my domain
 - Applied ML concepts such as feature engineering, model tuning, and performance evaluation
 - Focused on building **scalable and maintainable AI systems**
 
+THANK YOU <3
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/NikDev345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilrangarej@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nikhils345_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/n%C9%AA%E1%B4%8B%CA%9C%C9%AA%CA%9F-r-729223304) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Niks.345) 
